@@ -88,3 +88,9 @@ The analysis highlights meaningful differences between annual members and casual
 - Tableau dashboard design
 - Interactive data visualization
 - Business insights and recommendations
+
+
+
+## Tableau Dashboard Preview
+
+![Cyclistic Bike-Share Analysis Dashboard](Tableau_Dashboard/Cyclistic_Dashboard.png)
